@@ -1,0 +1,293 @@
+.button1{
+  background:#30A0B4;
+  padding:1em 2em;
+  color:#fff;
+  border:0;
+}
+
+.button1:hover{
+  background:#333;
+}
+
+.modal1{
+  display:none;
+  position: fixed;
+  z-index:1;
+  left: 0;
+  top: -20%;
+  height: 120%;
+  width:100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 12;
+}
+
+.modal-content1{
+  background-color:#f4f4f4;
+  margin: 20% auto;
+  width:70%;
+  box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2),0 7px 20px 0 rgba(0,0,0,0.17);
+  animation-name:modalopen;
+  animation-duration:1s;
+}
+
+.modal-header1 h2, .modal-footer1 h3{
+  margin:0;
+}
+
+.modal-header1{
+  background:#30A0B4;
+  padding:15px;
+  color:#fff;
+}
+
+.modal-body1{
+  padding:10px 20px;
+}
+
+.modal-footer1{
+  background:#30A0B4;
+  padding:10px;
+  color:#fff;
+  text-align: center;
+}
+
+.closeBtn1{
+  color:#ccc;
+  float: right;
+  font-size:30px;
+  color:#000;
+}
+
+.closeBtn1:hover,.closeBtn1:focus{
+  color:#000;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+@keyframes modalopen{
+  from{ opacity: 0}
+  to {opacity: 1}
+}
+
+/*modal2*/
+
+.button2{
+  background:#30A0B4;
+  padding:1em 2em;
+  color:#fff;
+  border:0;
+}
+
+.button2:hover{
+  background:#333;
+}
+
+.modal2{
+  display:none;
+  position: fixed;
+  z-index:1;
+  left: 0;
+  top: -20%;
+  height: 120%;
+  width:100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 12;
+}
+
+.modal-content2{
+  background-color:#f4f4f4;
+  margin: 20% auto;
+  width:70%;
+  box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2),0 7px 20px 0 rgba(0,0,0,0.17);
+  animation-name:modalopen;
+  animation-duration:1s;
+}
+
+.modal-header2 h2, .modal-footer2 h3{
+  margin:0;
+}
+
+.modal-header2{
+  background:#30A0B4;
+  padding:15px;
+  color:#fff;
+}
+
+.modal-body2{
+  padding:10px 20px;
+}
+
+.modal-footer2{
+  background:#30A0B4;
+  padding:10px;
+  color:#fff;
+  text-align: center;
+}
+
+.closeBtn2{
+  color:#ccc;
+  float: right;
+  font-size:30px;
+  color:#000;
+}
+
+.closeBtn2:hover,.closeBtn2:focus{
+  color:#000;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+@keyframes modalopen{
+  from{ opacity: 0}
+  to {opacity: 1}
+}
+
+/*modal3*/
+
+.button3{
+  background:#30A0B4;
+  padding:1em 2em;
+  color:#fff;
+  border:0;
+}
+
+.button3:hover{
+  background:#333;
+}
+
+.modal3{
+  display:none;
+  position: fixed;
+  z-index:1;
+  left: 0;
+  top: -20%;
+  height: 120%;
+  width:100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 12;
+}
+
+.modal-content3{
+  background-color:#f4f4f4;
+  margin: 20% auto;
+  width:70%;
+  box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2),0 7px 20px 0 rgba(0,0,0,0.17);
+  animation-name:modalopen;
+  animation-duration:1s;
+}
+
+.modal-header3 h2, .modal-footer3 h3{
+  margin:0;
+}
+
+.modal-header3{
+  background:#30A0B4;
+  padding:15px;
+  color:#fff;
+}
+
+.modal-body3{
+  padding:10px 20px;
+}
+
+.modal-footer3{
+  background:#30A0B4;
+  padding:10px;
+  color:#fff;
+  text-align: center;
+}
+
+.closeBtn3{
+  color:#ccc;
+  float: right;
+  font-size:30px;
+  color:#000;
+}
+
+.closeBtn3:hover,.closeBtn3:focus{
+  color:#000;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+@keyframes modalopen{
+  from{ opacity: 0}
+  to {opacity: 1}
+}
+
+/*modal4*/
+
+.button4{
+  background:#30A0B4;
+  padding:1em 2em;
+  color:#fff;
+  border:0;
+}
+
+.button4:hover{
+  background:#333;
+}
+
+.modal4{
+  display:none;
+  position: fixed;
+  z-index:1;
+  left: 0;
+  top: -20%;
+  height: 120%;
+  width:100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 12;
+}
+
+.modal-content4{
+  background-color:#f4f4f4;
+  margin: 20% auto;
+  width:70%;
+  box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2),0 7px 20px 0 rgba(0,0,0,0.17);
+  animation-name:modalopen;
+  animation-duration:1s;
+}
+
+.modal-header4 h2, .modal-footer4 h3{
+  margin:0;
+}
+
+.modal-header4{
+  background:#30A0B4;
+  padding:15px;
+  color:#fff;
+}
+
+.modal-body4{
+  padding:10px 20px;
+}
+
+.modal-footer4{
+  background:#30A0B4;
+  padding:10px;
+  color:#fff;
+  text-align: center;
+}
+
+.closeBtn4{
+  color:#ccc;
+  float: right;
+  font-size:30px;
+  color:#000;
+}
+
+.closeBtn4:hover,.closeBtn4:focus{
+  color:#000;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+@keyframes modalopen{
+  from{ opacity: 0}
+  to {opacity: 1}
+}
